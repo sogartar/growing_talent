@@ -1,4 +1,4 @@
-::mods_registerMod("growing_talents", 0.1, "growing_talents");
+::mods_registerMod("growing_talent", 0.1, "growing_talent");
 
 local gt = this.getroottable();
 
